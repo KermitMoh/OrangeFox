@@ -1,18 +1,19 @@
 {
-  "token": "<discord api token>",
-  "client_id": "<bot client id>",
-  "youtube_api_key": "<youtube api key>",
+  "token": "MzM5MjIwMjU4MDI2MTYwMTMx.DPk32A.iE7iQq-wO_6ZTy0Hbu2OZ6w9JHQ",
+  "client_id": "339220258026160131",
+  "youtube_api_key": "AIzaSyDF3CpLy0dlSH4f-1AJJ8X1JcKw3FdY7_0",
   "prefix": ".",
-  "game": "<playing status on discord>",
+  "game": "",
 
 
   "admins": {
-    "<userid on discord>": "<optional name>"
+    "241723504620339201": "OKE PlazmA#1153"
+    "218106092884983808": "Bryn's Glitchy Skull#7192"
   },
 
   "welcome": {
       "enabled": true,
-      "message": "Welcome {user} to {server} :fox:",
+      "message": "Welcome {user} to {server} :gem:",
       "add_role": {
         "enabled": false,
         "role": "default"
