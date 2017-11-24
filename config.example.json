@@ -12,7 +12,7 @@
   },
 
   "welcome": {
-      "enabled": true,
+      "enabled": false,
       "message": "Welcome {user} to {server} :gem:",
       "add_role": {
         "enabled": false,
