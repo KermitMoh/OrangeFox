@@ -174,4 +174,4 @@ exports.voice_connection = function() {
   return voice_connection;
 }
 
-bot.login(config.token);
+bot.login(process.env.BOT_TOKEN);
